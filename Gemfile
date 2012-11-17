@@ -22,6 +22,7 @@ end
 
 group :test do
   gem 'capybara'
+  gem 'sqlite3'
 end
 
 # Gems used only for assets and not required
